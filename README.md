@@ -1,15 +1,51 @@
-# Tip-Calculator-Application
+# Pre-work - Tip Calculator Application
 
-### Purpose
-Tip Calculator Application is an app that has the user input a bill in USD and calculates the total bill after gratuity. The user can change the tip percentage ranging from 10% to 25% and choose to split the bill up to 5 people.  
-The app will return the calculated gratuity, the amount that should be split between the number of people selected, and the total bill with the added gratuity.  
+Tip Calculator Application is a tip calculator application for iOS
 
-### Motivation
-This is a beginning attempt at developing a mobile app and understanding Swift syntax. It is part of an application for the CodePath iOS course (Fall 2020). 
+Submitted by: Madison R Reese
 
-## Demo
-[Click here](https://recordit.co/hTnbjzxbHH) to watch 
+Time spent: (estimated) 20 hours spent in total
 
-!![](Tip-Calculator-Recording.gif)
+## User Stories
 
--- Built with XCode
+The following **required** functionality is complete:
+
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly. (In this application I used a slider instead.)
+
+The following **additional** features are implemented:
+
+- [ ] User can selected between number of people to split the total bill after gratuity with on the segmented control. 
+- [ ] Slider for the tip control displays the percentage of the slider through a label. 
+- [ ] A settings view controller can be opened, however, there are no functions implemented in the controller (so far). 
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://recordit.co/hTbjzxbHH' title ='Video Walkthrough' width='' 
+alt ='Video Walkthrough' />
+
+GIF created with [RecordIt](https://recordit.co/)
+
+## Notes
+
+During the process of building this application, I was experimenting on changing background colors when certain uiviews were tapped by the user. I managed to change the color, then could not figure out how to have the color change back when unselected. I was also working on moving the split control to the settings view controller, however, it would ruined the "value changes" I had set to calculate the total label on the main view controller. Given more time and research I will be able to implement these changes. However, with the short time span I found that they made my application appear unclean and created a chain of bugs.
+
+Overall, through expirimenting with the many functions of XCode, I became familiarized with Swift and how to use XCode effectively. Previously, I have mostly coded algorithmic java programs which remain in the terminal, so it was intriguing to see how programming can be used to visually create mobile applications. 
+
+## License
+
+    Copyright [2020] [Madison Reese]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
