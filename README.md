@@ -5,7 +5,11 @@ Tip Calculator Application is an app that allows the user to input a bill in USD
 The app will return total gratuity, the amount that should be split between the number of people inputted, and the total bill with added gratuity.  
 
 ### Motivation
-This is my first attempt at developing a mobile app and understanding Swift syntax. It is part of an application for the CodePath iOS (Fall 2020) course. 
+This is my beginner's attempt at developing a mobile app and understanding Swift syntax. It is part of an application for the CodePath iOS course (Fall 2020). 
 
-!![](TipCalculatorRecording.gif)
+## Demo
+[Click here](https://recordit.co/hTnbjzxbHH) to watch 
+
+!![](Tip-Calculator-Recording.gif)
+
 -- Built with XCode
