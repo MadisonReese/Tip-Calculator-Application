@@ -2,7 +2,7 @@
 
 Tip Calculator Application is a tip calculator application for iOS
 
-Submitted by: Madison R Reese
+Submitted by: Madison Reese
 
 Time spent: (estimated) 20 hours spent in total
 
