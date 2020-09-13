@@ -30,7 +30,7 @@ GIF created with [RecordIt](https://recordit.co/)
 
 ## Notes
 
-During the process of building this application, I was experimenting on changing background colors when certain uiviews were tapped by the user. I managed to change the color, then could not figure out how to have the color change back when unselected. I was also working on moving the split control to the settings view controller, however, it would ruined the "value changes" I had set to calculate the total label on the main view controller. Given more time and research I will be able to implement these changes. However, with the short time span I found that they made my application appear unclean and created a chain of bugs.
+During the process of building this application, I was experimenting on changing background colors when certain uiviews were tapped by the user. I managed to change the color, then could not figure out how to have the color change back when unselected. I was also working on moving the split control to the settings view controller, however, it would ruin the 'value changes' I had set to calculate the total label on the main view controller. Given more time and research I will be able to implement these changes. However, I found that my beginner attempts made my application appear unclean and created a chain of bugs.
 
 Overall, through expirimenting with the many functions of XCode, I became familiarized with Swift and how to use XCode effectively. Previously, I have mostly coded algorithmic java programs which remain in the terminal, so it was intriguing to see how programming can be used to visually create mobile applications. 
 
