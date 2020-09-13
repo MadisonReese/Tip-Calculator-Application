@@ -17,7 +17,7 @@ The following **additional** features are implemented:
 
 - [ ] User can selected between number of people to split the total bill after gratuity with on the segmented control. 
 - [ ] Slider for the tip control displays the percentage of the slider through a label. 
-- [ ] A settings view controller can be opened, however, there are no functions implemented in the controller (so far). 
+- [ ] A settings view controller can be opened, however, there are no functions implemented in the controller (In Progress). 
 
 ## Video Walkthrough
 
