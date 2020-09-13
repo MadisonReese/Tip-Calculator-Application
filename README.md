@@ -7,6 +7,5 @@ The app will return total gratuity, the amount that should be split between the 
 ### Motivation
 This is my first attempt at developing a mobile app and understanding Swift syntax. It is part of an application for the CodePath iOS (Fall 2020) course. 
 
-!! [] (TipCalculatorRecording.gif)
-
+!![](TipCalculatorRecording.gif)
 -- Built with XCode
