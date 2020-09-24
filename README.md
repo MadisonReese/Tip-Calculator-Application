@@ -10,14 +10,14 @@ Time spent: (estimated) 20 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly. (In this application I used a slider instead.)
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly. (In this application I used a slider instead.)
 
 The following **additional** features are implemented:
 
-- [ ] User can selected between number of people to split the total bill after gratuity with on the segmented control. 
-- [ ] Slider for the tip control displays the percentage of the slider through a label. 
-- [ ] A settings view controller can be opened, however, there are no functions implemented in the controller (In Progress). 
+- [x] User can selected between number of people to split the total bill after gratuity with on the segmented control. 
+- [x] Slider for the tip control displays the percentage of the slider through a label. 
+- [x] A settings view controller can be opened, however, there are no functions implemented in the controller (In Progress). 
 
 ## Video Walkthrough
 
